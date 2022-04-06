@@ -9,10 +9,20 @@
     <script src="script.js"></script>
 </head>
 <body>
-    
+<?php 
+ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
+    session_destroy(); 
+    header('location:index1.php');
+ }
+ ?>
 
-<a href="index1.php"><h1>deconnexion</h1></a> 
-<?php  echo "bonjour ".$_SESSION['email'] ?> <br>
+<form action="citation.php" method="POST">
+    <button type="submit">deco</button>
+</form> 
+<?php session_start(); 
+  
+?>
+<?php echo "bonjour ".$_SESSION['email']; ?> <br>
 
 
 

@@ -1,4 +1,22 @@
-<!DOCTYPE html>
+<?php //CONNEXION BDD
+try
+{
+    $bdd = new PDO('mysql:host=localhost;dbname=mychat-comments;charset=utf8' , 'root', '');
+}
+catch (\Exception $e)
+{
+    die('Erreur : ' . $e->getMessage());
+}
+
+
+
+    $req = $bdd-> prepare('SELECT * FROM users');
+    $req-> execute();
+
+      while($donnes = $req->fetch()){
+          echo 'Bonjour '.$donnes['pseudo'];
+      } ?>
+<!--
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -17,4 +35,4 @@
 </form>
 </body>
 </html>
- 
+-->

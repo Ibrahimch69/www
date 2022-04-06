@@ -1,0 +1,30 @@
+h1{
+    background-color: rgb(238, 145, 23);
+}
+button{
+    background-color: rgb(174, 166, 81);
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    
+    cursor: pointer;
+}
+.dore:hover{
+    background-color: rgb(129, 123, 51);
+}
+
+.marbre{
+    background: url("/stest/img/marbreProjetCo\ 2.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.white{
+    color: white;
+    text-decoration: none;
+}
+.white:hover{
+    color: rgb(24, 24, 24);
+    text-decoration: none;
+}

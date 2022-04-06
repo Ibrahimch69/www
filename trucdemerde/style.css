@@ -1,0 +1,15 @@
+.all {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card-body,
+.card-img-top,
+.card {
+  margin: auto;
+  flex-direction: column;
+}
+.btn-primary {
+  background-color: pink;
+  border-color: pink;
+}

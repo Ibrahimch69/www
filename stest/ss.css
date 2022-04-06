@@ -1,0 +1,90 @@
+body{
+    background: url("/stest/img/marbreProjetCo\ 2.png");
+}
+.titre{
+    justify-content: center;
+    display: flex;
+    color: white;
+    margin-bottom: 2%;  
+}
+h2{
+    color: white;
+}
+.one{
+    height: 5%;
+    width: 5%;
+    border-radius: 2%;
+}
+#image{
+    justify-content: center;
+    display: flex;
+    height: 20%;
+    margin-bottom: 4%;
+}
+#para{
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin: 12%;
+    margin-top: auto;
+    margin-bottom: auto;
+    text-align: start;
+    
+}
+form{
+    margin-left: 25%;
+    width: 50%;
+}
+label{
+    color: white;
+    font-size: 20px;
+    font-weight: 10px;
+}
+.container{
+    background-color: white;
+    opacity: 0.5;
+    margin-top: 2.5%;
+}
+
+.formulaire{
+    justify-content: center;
+    display: flex;
+    margin-top: 2.5%;
+}
+.dore{
+    background-color: rgb(129, 129, 129);
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.dore:hover{
+    background-color: rgb(129, 123, 51);
+}
+
+.marbre{
+    background-image: url(./img/marbreProjetCo\ 2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.white{
+    color: white;
+    text-decoration: none;
+}
+.white:hover{
+    color: rgb(85, 82, 45);
+    text-decoration: none;
+}
+nav {
+    background-color: rgb(174, 166, 81);
+}
+.bouton{
+    background-color: white;
+    color: rgb(174, 166, 81);
+    border: none;
+    text-decoration: none;
+    cursor: pointer;
+}
+

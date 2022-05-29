@@ -1,0 +1,21 @@
+body{
+    background: url("/stest/img/marbreProjetCo\ 2.png");
+
+}
+.soust{
+    justify-content: center;
+    display: flex;
+    color: white;
+    margin-top: auto;
+    margin-bottom: 5%;
+}
+.bootstrap{
+    justify-content: center;
+    display: flex;
+    
+}
+.grand {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}

@@ -1,0 +1,2683 @@
+[
+    {
+      "nom": "Affoux",
+      "code": "69001",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69170"
+      ],
+      "population": 391
+    },
+    {
+      "nom": "Aigueperse",
+      "code": "69002",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69790"
+      ],
+      "population": 245
+    },
+    {
+      "nom": "Albigny-sur-Saône",
+      "code": "69003",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69250"
+      ],
+      "population": 2947
+    },
+    {
+      "nom": "Alix",
+      "code": "69004",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69380"
+      ],
+      "population": 768
+    },
+    {
+      "nom": "Ambérieux",
+      "code": "69005",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69480"
+      ],
+      "population": 584
+    },
+    {
+      "nom": "Amplepuis",
+      "code": "69006",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69550"
+      ],
+      "population": 4919
+    },
+    {
+      "nom": "Ampuis",
+      "code": "69007",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69420"
+      ],
+      "population": 2749
+    },
+    {
+      "nom": "Ancy",
+      "code": "69008",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69490"
+      ],
+      "population": 668
+    },
+    {
+      "nom": "Anse",
+      "code": "69009",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69480"
+      ],
+      "population": 7538
+    },
+    {
+      "nom": "L'Arbresle",
+      "code": "69010",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69210"
+      ],
+      "population": 6410
+    },
+    {
+      "nom": "Les Ardillats",
+      "code": "69012",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69430"
+      ],
+      "population": 611
+    },
+    {
+      "nom": "Arnas",
+      "code": "69013",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69400"
+      ],
+      "population": 3897
+    },
+    {
+      "nom": "Aveize",
+      "code": "69014",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69610"
+      ],
+      "population": 1129
+    },
+    {
+      "nom": "Azolette",
+      "code": "69016",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69790"
+      ],
+      "population": 121
+    },
+    {
+      "nom": "Bagnols",
+      "code": "69017",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69620"
+      ],
+      "population": 745
+    },
+    {
+      "nom": "Beaujeu",
+      "code": "69018",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69430"
+      ],
+      "population": 2148
+    },
+    {
+      "nom": "Belleville-en-Beaujolais",
+      "code": "69019",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69220"
+      ],
+      "population": 13314
+    },
+    {
+      "nom": "Belmont-d'Azergues",
+      "code": "69020",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69380"
+      ],
+      "population": 681
+    },
+    {
+      "nom": "Bessenay",
+      "code": "69021",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69690"
+      ],
+      "population": 2340
+    },
+    {
+      "nom": "Bibost",
+      "code": "69022",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69690"
+      ],
+      "population": 558
+    },
+    {
+      "nom": "Blacé",
+      "code": "69023",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69460"
+      ],
+      "population": 1635
+    },
+    {
+      "nom": "Val d'Oingt",
+      "code": "69024",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69620"
+      ],
+      "population": 4122
+    },
+    {
+      "nom": "Le Breuil",
+      "code": "69026",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69620"
+      ],
+      "population": 548
+    },
+    {
+      "nom": "Brignais",
+      "code": "69027",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69530"
+      ],
+      "population": 12097
+    },
+    {
+      "nom": "Brindas",
+      "code": "69028",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69126"
+      ],
+      "population": 6478
+    },
+    {
+      "nom": "Bron",
+      "code": "69029",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69500"
+      ],
+      "population": 42244
+    },
+    {
+      "nom": "Brullioles",
+      "code": "69030",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69690"
+      ],
+      "population": 818
+    },
+    {
+      "nom": "Brussieu",
+      "code": "69031",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69690"
+      ],
+      "population": 1379
+    },
+    {
+      "nom": "Bully",
+      "code": "69032",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69210"
+      ],
+      "population": 1988
+    },
+    {
+      "nom": "Cailloux-sur-Fontaines",
+      "code": "69033",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69270"
+      ],
+      "population": 2883
+    },
+    {
+      "nom": "Caluire-et-Cuire",
+      "code": "69034",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69300"
+      ],
+      "population": 43294
+    },
+    {
+      "nom": "Cenves",
+      "code": "69035",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69840"
+      ],
+      "population": 381
+    },
+    {
+      "nom": "Cercié",
+      "code": "69036",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69220"
+      ],
+      "population": 1138
+    },
+    {
+      "nom": "Chambost-Allières",
+      "code": "69037",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69870"
+      ],
+      "population": 833
+    },
+    {
+      "nom": "Chambost-Longessaigne",
+      "code": "69038",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69770"
+      ],
+      "population": 928
+    },
+    {
+      "nom": "Chamelet",
+      "code": "69039",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69620"
+      ],
+      "population": 694
+    },
+    {
+      "nom": "Champagne-au-Mont-d'Or",
+      "code": "69040",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69410"
+      ],
+      "population": 5748
+    },
+    {
+      "nom": "La Chapelle-sur-Coise",
+      "code": "69042",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69590"
+      ],
+      "population": 566
+    },
+    {
+      "nom": "Chaponost",
+      "code": "69043",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69630"
+      ],
+      "population": 8846
+    },
+    {
+      "nom": "Charbonnières-les-Bains",
+      "code": "69044",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69260"
+      ],
+      "population": 5170
+    },
+    {
+      "nom": "Charentay",
+      "code": "69045",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69220"
+      ],
+      "population": 1248
+    },
+    {
+      "nom": "Charly",
+      "code": "69046",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69390"
+      ],
+      "population": 4563
+    },
+    {
+      "nom": "Charnay",
+      "code": "69047",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69380"
+      ],
+      "population": 1051
+    },
+    {
+      "nom": "Chasselay",
+      "code": "69049",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69380"
+      ],
+      "population": 2791
+    },
+    {
+      "nom": "Châtillon",
+      "code": "69050",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69380"
+      ],
+      "population": 2113
+    },
+    {
+      "nom": "Chaussan",
+      "code": "69051",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69440"
+      ],
+      "population": 1170
+    },
+    {
+      "nom": "Chazay-d'Azergues",
+      "code": "69052",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69380"
+      ],
+      "population": 4132
+    },
+    {
+      "nom": "Chénas",
+      "code": "69053",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69840"
+      ],
+      "population": 543
+    },
+    {
+      "nom": "Chénelette",
+      "code": "69054",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69430"
+      ],
+      "population": 343
+    },
+    {
+      "nom": "Les Chères",
+      "code": "69055",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69380"
+      ],
+      "population": 1448
+    },
+    {
+      "nom": "Chessy",
+      "code": "69056",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69380"
+      ],
+      "population": 2107
+    },
+    {
+      "nom": "Chevinay",
+      "code": "69057",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69210"
+      ],
+      "population": 582
+    },
+    {
+      "nom": "Chiroubles",
+      "code": "69058",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69115"
+      ],
+      "population": 384
+    },
+    {
+      "nom": "Civrieux-d'Azergues",
+      "code": "69059",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69380"
+      ],
+      "population": 1537
+    },
+    {
+      "nom": "Claveisolles",
+      "code": "69060",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69870"
+      ],
+      "population": 576
+    },
+    {
+      "nom": "Cogny",
+      "code": "69061",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69640"
+      ],
+      "population": 1188
+    },
+    {
+      "nom": "Coise",
+      "code": "69062",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69590"
+      ],
+      "population": 778
+    },
+    {
+      "nom": "Collonges-au-Mont-d'Or",
+      "code": "69063",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69660"
+      ],
+      "population": 4315
+    },
+    {
+      "nom": "Condrieu",
+      "code": "69064",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69420"
+      ],
+      "population": 3957
+    },
+    {
+      "nom": "Corcelles-en-Beaujolais",
+      "code": "69065",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69220"
+      ],
+      "population": 965
+    },
+    {
+      "nom": "Cours",
+      "code": "69066",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69470"
+      ],
+      "population": 4390
+    },
+    {
+      "nom": "Courzieu",
+      "code": "69067",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69690"
+      ],
+      "population": 1168
+    },
+    {
+      "nom": "Couzon-au-Mont-d'Or",
+      "code": "69068",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69270"
+      ],
+      "population": 2454
+    },
+    {
+      "nom": "Craponne",
+      "code": "69069",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69290"
+      ],
+      "population": 11248
+    },
+    {
+      "nom": "Cublize",
+      "code": "69070",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69550"
+      ],
+      "population": 1266
+    },
+    {
+      "nom": "Curis-au-Mont-d'Or",
+      "code": "69071",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69250"
+      ],
+      "population": 1179
+    },
+    {
+      "nom": "Dardilly",
+      "code": "69072",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69570"
+      ],
+      "population": 8752
+    },
+    {
+      "nom": "Denicé",
+      "code": "69074",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69640"
+      ],
+      "population": 1550
+    },
+    {
+      "nom": "Dième",
+      "code": "69075",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69170"
+      ],
+      "population": 193
+    },
+    {
+      "nom": "Dommartin",
+      "code": "69076",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69380"
+      ],
+      "population": 2595
+    },
+    {
+      "nom": "Dracé",
+      "code": "69077",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69220"
+      ],
+      "population": 965
+    },
+    {
+      "nom": "Duerne",
+      "code": "69078",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69850"
+      ],
+      "population": 837
+    },
+    {
+      "nom": "Échalas",
+      "code": "69080",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69700"
+      ],
+      "population": 1901
+    },
+    {
+      "nom": "Écully",
+      "code": "69081",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69130"
+      ],
+      "population": 18948
+    },
+    {
+      "nom": "Émeringes",
+      "code": "69082",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69840"
+      ],
+      "population": 270
+    },
+    {
+      "nom": "Éveux",
+      "code": "69083",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69210"
+      ],
+      "population": 1164
+    },
+    {
+      "nom": "Fleurie",
+      "code": "69084",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69820"
+      ],
+      "population": 1282
+    },
+    {
+      "nom": "Fleurieu-sur-Saône",
+      "code": "69085",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69250"
+      ],
+      "population": 1492
+    },
+    {
+      "nom": "Fleurieux-sur-l'Arbresle",
+      "code": "69086",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69210"
+      ],
+      "population": 2290
+    },
+    {
+      "nom": "Fontaines-Saint-Martin",
+      "code": "69087",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69270"
+      ],
+      "population": 3033
+    },
+    {
+      "nom": "Fontaines-sur-Saône",
+      "code": "69088",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69270"
+      ],
+      "population": 7066
+    },
+    {
+      "nom": "Francheville",
+      "code": "69089",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69340"
+      ],
+      "population": 14906
+    },
+    {
+      "nom": "Frontenas",
+      "code": "69090",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69620"
+      ],
+      "population": 809
+    },
+    {
+      "nom": "Givors",
+      "code": "69091",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69700"
+      ],
+      "population": 20285
+    },
+    {
+      "nom": "Gleizé",
+      "code": "69092",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69400"
+      ],
+      "population": 7496
+    },
+    {
+      "nom": "Grandris",
+      "code": "69093",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69870"
+      ],
+      "population": 1187
+    },
+    {
+      "nom": "Grézieu-la-Varenne",
+      "code": "69094",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69290"
+      ],
+      "population": 6062
+    },
+    {
+      "nom": "Grézieu-le-Marché",
+      "code": "69095",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69610"
+      ],
+      "population": 827
+    },
+    {
+      "nom": "Grigny",
+      "code": "69096",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69520"
+      ],
+      "population": 9706
+    },
+    {
+      "nom": "Les Haies",
+      "code": "69097",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69420"
+      ],
+      "population": 772
+    },
+    {
+      "nom": "Les Halles",
+      "code": "69098",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69610"
+      ],
+      "population": 508
+    },
+    {
+      "nom": "Haute-Rivoire",
+      "code": "69099",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69610"
+      ],
+      "population": 1442
+    },
+    {
+      "nom": "Irigny",
+      "code": "69100",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69540"
+      ],
+      "population": 8750
+    },
+    {
+      "nom": "Joux",
+      "code": "69102",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69170"
+      ],
+      "population": 734
+    },
+    {
+      "nom": "Juliénas",
+      "code": "69103",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69840"
+      ],
+      "population": 899
+    },
+    {
+      "nom": "Jullié",
+      "code": "69104",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69840"
+      ],
+      "population": 432
+    },
+    {
+      "nom": "Lacenas",
+      "code": "69105",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69640"
+      ],
+      "population": 1021
+    },
+    {
+      "nom": "Lachassagne",
+      "code": "69106",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69480"
+      ],
+      "population": 1181
+    },
+    {
+      "nom": "Lamure-sur-Azergues",
+      "code": "69107",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69870"
+      ],
+      "population": 1055
+    },
+    {
+      "nom": "Lancié",
+      "code": "69108",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69220"
+      ],
+      "population": 1043
+    },
+    {
+      "nom": "Lantignié",
+      "code": "69109",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69430"
+      ],
+      "population": 861
+    },
+    {
+      "nom": "Larajasse",
+      "code": "69110",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69590"
+      ],
+      "population": 1862
+    },
+    {
+      "nom": "Légny",
+      "code": "69111",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69620"
+      ],
+      "population": 673
+    },
+    {
+      "nom": "Lentilly",
+      "code": "69112",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69210"
+      ],
+      "population": 6480
+    },
+    {
+      "nom": "Létra",
+      "code": "69113",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69620"
+      ],
+      "population": 901
+    },
+    {
+      "nom": "Limas",
+      "code": "69115",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69400"
+      ],
+      "population": 4871
+    },
+    {
+      "nom": "Limonest",
+      "code": "69116",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69760"
+      ],
+      "population": 3648
+    },
+    {
+      "nom": "Lissieu",
+      "code": "69117",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69380"
+      ],
+      "population": 3134
+    },
+    {
+      "nom": "Loire-sur-Rhône",
+      "code": "69118",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69700"
+      ],
+      "population": 2618
+    },
+    {
+      "nom": "Longes",
+      "code": "69119",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69420"
+      ],
+      "population": 977
+    },
+    {
+      "nom": "Longessaigne",
+      "code": "69120",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69770"
+      ],
+      "population": 595
+    },
+    {
+      "nom": "Lozanne",
+      "code": "69121",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69380"
+      ],
+      "population": 2729
+    },
+    {
+      "nom": "Lucenay",
+      "code": "69122",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69480"
+      ],
+      "population": 1916
+    },
+    {
+      "nom": "Lyon",
+      "code": "69123",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69001",
+        "69002",
+        "69003",
+        "69004",
+        "69005",
+        "69006",
+        "69007",
+        "69008",
+        "69009"
+      ],
+      "population": 522969
+    },
+    {
+      "nom": "Marchampt",
+      "code": "69124",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69430"
+      ],
+      "population": 459
+    },
+    {
+      "nom": "Marcilly-d'Azergues",
+      "code": "69125",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69380"
+      ],
+      "population": 876
+    },
+    {
+      "nom": "Marcy",
+      "code": "69126",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69480"
+      ],
+      "population": 768
+    },
+    {
+      "nom": "Marcy-l'Étoile",
+      "code": "69127",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69280"
+      ],
+      "population": 3549
+    },
+    {
+      "nom": "Meaux-la-Montagne",
+      "code": "69130",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69550"
+      ],
+      "population": 233
+    },
+    {
+      "nom": "Messimy",
+      "code": "69131",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69510"
+      ],
+      "population": 3402
+    },
+    {
+      "nom": "Meys",
+      "code": "69132",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69610"
+      ],
+      "population": 847
+    },
+    {
+      "nom": "Millery",
+      "code": "69133",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69390"
+      ],
+      "population": 4318
+    },
+    {
+      "nom": "Moiré",
+      "code": "69134",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69620"
+      ],
+      "population": 227
+    },
+    {
+      "nom": "Deux-Grosnes",
+      "code": "69135",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69860",
+        "69430"
+      ],
+      "population": 1911
+    },
+    {
+      "nom": "Montagny",
+      "code": "69136",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69700"
+      ],
+      "population": 3118
+    },
+    {
+      "nom": "Montmelas-Saint-Sorlin",
+      "code": "69137",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69640"
+      ],
+      "population": 516
+    },
+    {
+      "nom": "Montromant",
+      "code": "69138",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69610"
+      ],
+      "population": 445
+    },
+    {
+      "nom": "Montrottier",
+      "code": "69139",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69770"
+      ],
+      "population": 1378
+    },
+    {
+      "nom": "Morancé",
+      "code": "69140",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69480"
+      ],
+      "population": 1995
+    },
+    {
+      "nom": "Mornant",
+      "code": "69141",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69440"
+      ],
+      "population": 6144
+    },
+    {
+      "nom": "La Mulatière",
+      "code": "69142",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69350"
+      ],
+      "population": 6524
+    },
+    {
+      "nom": "Neuville-sur-Saône",
+      "code": "69143",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69250"
+      ],
+      "population": 7562
+    },
+    {
+      "nom": "Odenas",
+      "code": "69145",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69460"
+      ],
+      "population": 921
+    },
+    {
+      "nom": "Orliénas",
+      "code": "69148",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69530"
+      ],
+      "population": 2541
+    },
+    {
+      "nom": "Oullins",
+      "code": "69149",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69600"
+      ],
+      "population": 26553
+    },
+    {
+      "nom": "Le Perréon",
+      "code": "69151",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69460"
+      ],
+      "population": 1524
+    },
+    {
+      "nom": "Pierre-Bénite",
+      "code": "69152",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69310"
+      ],
+      "population": 10397
+    },
+    {
+      "nom": "Poleymieux-au-Mont-d'Or",
+      "code": "69153",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69250"
+      ],
+      "population": 1377
+    },
+    {
+      "nom": "Pollionnay",
+      "code": "69154",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69290"
+      ],
+      "population": 2845
+    },
+    {
+      "nom": "Pomeys",
+      "code": "69155",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69590"
+      ],
+      "population": 1132
+    },
+    {
+      "nom": "Pommiers",
+      "code": "69156",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69480"
+      ],
+      "population": 2713
+    },
+    {
+      "nom": "Vindry-sur-Turdine",
+      "code": "69157",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69490"
+      ],
+      "population": 5279
+    },
+    {
+      "nom": "Porte des Pierres Dorées",
+      "code": "69159",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69400",
+        "69640"
+      ],
+      "population": 3907
+    },
+    {
+      "nom": "Poule-les-Écharmeaux",
+      "code": "69160",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69870"
+      ],
+      "population": 1065
+    },
+    {
+      "nom": "Propières",
+      "code": "69161",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69790"
+      ],
+      "population": 487
+    },
+    {
+      "nom": "Quincié-en-Beaujolais",
+      "code": "69162",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69430"
+      ],
+      "population": 1331
+    },
+    {
+      "nom": "Quincieux",
+      "code": "69163",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69650"
+      ],
+      "population": 3495
+    },
+    {
+      "nom": "Ranchal",
+      "code": "69164",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69470"
+      ],
+      "population": 322
+    },
+    {
+      "nom": "Régnié-Durette",
+      "code": "69165",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69430"
+      ],
+      "population": 1126
+    },
+    {
+      "nom": "Riverie",
+      "code": "69166",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69440"
+      ],
+      "population": 328
+    },
+    {
+      "nom": "Rivolet",
+      "code": "69167",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69640"
+      ],
+      "population": 589
+    },
+    {
+      "nom": "Rochetaillée-sur-Saône",
+      "code": "69168",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69270"
+      ],
+      "population": 1536
+    },
+    {
+      "nom": "Ronno",
+      "code": "69169",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69550"
+      ],
+      "population": 639
+    },
+    {
+      "nom": "Rontalon",
+      "code": "69170",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69510"
+      ],
+      "population": 1157
+    },
+    {
+      "nom": "Sain-Bel",
+      "code": "69171",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69210"
+      ],
+      "population": 2363
+    },
+    {
+      "nom": "Salles-Arbuissonnas-en-Beaujolais",
+      "code": "69172",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69460"
+      ],
+      "population": 761
+    },
+    {
+      "nom": "Sarcey",
+      "code": "69173",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69490"
+      ],
+      "population": 1016
+    },
+    {
+      "nom": "Les Sauvages",
+      "code": "69174",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69170"
+      ],
+      "population": 614
+    },
+    {
+      "nom": "Savigny",
+      "code": "69175",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69210"
+      ],
+      "population": 1996
+    },
+    {
+      "nom": "Soucieu-en-Jarrest",
+      "code": "69176",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69510"
+      ],
+      "population": 4590
+    },
+    {
+      "nom": "Sourcieux-les-Mines",
+      "code": "69177",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69210"
+      ],
+      "population": 2064
+    },
+    {
+      "nom": "Souzy",
+      "code": "69178",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69610"
+      ],
+      "population": 825
+    },
+    {
+      "nom": "Beauvallon",
+      "code": "69179",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69700"
+      ],
+      "population": 4055
+    },
+    {
+      "nom": "Saint-André-la-Côte",
+      "code": "69180",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69440"
+      ],
+      "population": 288
+    },
+    {
+      "nom": "Saint-Appolinaire",
+      "code": "69181",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69170"
+      ],
+      "population": 223
+    },
+    {
+      "nom": "Saint-Bonnet-des-Bruyères",
+      "code": "69182",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69790"
+      ],
+      "population": 356
+    },
+    {
+      "nom": "Saint-Bonnet-le-Troncy",
+      "code": "69183",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69870"
+      ],
+      "population": 317
+    },
+    {
+      "nom": "Sainte-Catherine",
+      "code": "69184",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69440"
+      ],
+      "population": 991
+    },
+    {
+      "nom": "Saint-Clément-de-Vers",
+      "code": "69186",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69790"
+      ],
+      "population": 213
+    },
+    {
+      "nom": "Saint-Clément-les-Places",
+      "code": "69187",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69930"
+      ],
+      "population": 654
+    },
+    {
+      "nom": "Saint-Clément-sur-Valsonne",
+      "code": "69188",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69170"
+      ],
+      "population": 908
+    },
+    {
+      "nom": "Sainte-Colombe",
+      "code": "69189",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69560"
+      ],
+      "population": 1884
+    },
+    {
+      "nom": "Sainte-Consorce",
+      "code": "69190",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69280"
+      ],
+      "population": 2028
+    },
+    {
+      "nom": "Saint-Cyr-au-Mont-d'Or",
+      "code": "69191",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69450"
+      ],
+      "population": 5747
+    },
+    {
+      "nom": "Saint-Cyr-le-Chatoux",
+      "code": "69192",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69870"
+      ],
+      "population": 153
+    },
+    {
+      "nom": "Saint-Cyr-sur-le-Rhône",
+      "code": "69193",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69560"
+      ],
+      "population": 1269
+    },
+    {
+      "nom": "Saint-Didier-au-Mont-d'Or",
+      "code": "69194",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69370"
+      ],
+      "population": 7006
+    },
+    {
+      "nom": "Saint-Didier-sur-Beaujeu",
+      "code": "69196",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69430"
+      ],
+      "population": 617
+    },
+    {
+      "nom": "Saint-Étienne-des-Oullières",
+      "code": "69197",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69460"
+      ],
+      "population": 2210
+    },
+    {
+      "nom": "Saint-Étienne-la-Varenne",
+      "code": "69198",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69460"
+      ],
+      "population": 756
+    },
+    {
+      "nom": "Saint-Fons",
+      "code": "69199",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69190"
+      ],
+      "population": 19617
+    },
+    {
+      "nom": "Saint-Forgeux",
+      "code": "69200",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69490"
+      ],
+      "population": 1472
+    },
+    {
+      "nom": "Sainte-Foy-l'Argentière",
+      "code": "69201",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69610"
+      ],
+      "population": 1286
+    },
+    {
+      "nom": "Sainte-Foy-lès-Lyon",
+      "code": "69202",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69110"
+      ],
+      "population": 22175
+    },
+    {
+      "nom": "Saint-Genis-l'Argentière",
+      "code": "69203",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69610"
+      ],
+      "population": 1018
+    },
+    {
+      "nom": "Saint-Genis-Laval",
+      "code": "69204",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69230"
+      ],
+      "population": 20914
+    },
+    {
+      "nom": "Saint-Genis-les-Ollières",
+      "code": "69205",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69290"
+      ],
+      "population": 5158
+    },
+    {
+      "nom": "Saint-Georges-de-Reneins",
+      "code": "69206",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69830"
+      ],
+      "population": 4409
+    },
+    {
+      "nom": "Saint-Germain-au-Mont-d'Or",
+      "code": "69207",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69650"
+      ],
+      "population": 3001
+    },
+    {
+      "nom": "Saint-Germain-Nuelles",
+      "code": "69208",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69210"
+      ],
+      "population": 2262
+    },
+    {
+      "nom": "Saint-Igny-de-Vers",
+      "code": "69209",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69790"
+      ],
+      "population": 566
+    },
+    {
+      "nom": "Saint-Jean-des-Vignes",
+      "code": "69212",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69380"
+      ],
+      "population": 479
+    },
+    {
+      "nom": "Saint-Jean-la-Bussière",
+      "code": "69214",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69550"
+      ],
+      "population": 1204
+    },
+    {
+      "nom": "Saint-Julien",
+      "code": "69215",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69640"
+      ],
+      "population": 879
+    },
+    {
+      "nom": "Saint-Julien-sur-Bibost",
+      "code": "69216",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69690"
+      ],
+      "population": 566
+    },
+    {
+      "nom": "Saint-Just-d'Avray",
+      "code": "69217",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69870"
+      ],
+      "population": 748
+    },
+    {
+      "nom": "Saint-Lager",
+      "code": "69218",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69220"
+      ],
+      "population": 1048
+    },
+    {
+      "nom": "Saint-Laurent-d'Agny",
+      "code": "69219",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69440"
+      ],
+      "population": 2133
+    },
+    {
+      "nom": "Saint-Laurent-de-Chamousset",
+      "code": "69220",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69930"
+      ],
+      "population": 1805
+    },
+    {
+      "nom": "Saint-Marcel-l'Éclairé",
+      "code": "69225",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69170"
+      ],
+      "population": 541
+    },
+    {
+      "nom": "Saint-Martin-en-Haut",
+      "code": "69227",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69850"
+      ],
+      "population": 3853
+    },
+    {
+      "nom": "Chabanière",
+      "code": "69228",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69440"
+      ],
+      "population": 4224
+    },
+    {
+      "nom": "Saint-Nizier-d'Azergues",
+      "code": "69229",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69870"
+      ],
+      "population": 800
+    },
+    {
+      "nom": "Sainte-Paule",
+      "code": "69230",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69620"
+      ],
+      "population": 320
+    },
+    {
+      "nom": "Saint-Pierre-la-Palud",
+      "code": "69231",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69210"
+      ],
+      "population": 2596
+    },
+    {
+      "nom": "Saint-Romain-au-Mont-d'Or",
+      "code": "69233",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69270"
+      ],
+      "population": 1228
+    },
+    {
+      "nom": "Saint-Romain-de-Popey",
+      "code": "69234",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69490"
+      ],
+      "population": 1583
+    },
+    {
+      "nom": "Saint-Romain-en-Gal",
+      "code": "69235",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69560"
+      ],
+      "population": 1967
+    },
+    {
+      "nom": "Saint-Romain-en-Gier",
+      "code": "69236",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69700"
+      ],
+      "population": 590
+    },
+    {
+      "nom": "Saint-Symphorien-sur-Coise",
+      "code": "69238",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69590"
+      ],
+      "population": 3710
+    },
+    {
+      "nom": "Saint-Vérand",
+      "code": "69239",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69620"
+      ],
+      "population": 1212
+    },
+    {
+      "nom": "Saint-Vincent-de-Reins",
+      "code": "69240",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69240"
+      ],
+      "population": 617
+    },
+    {
+      "nom": "Taluyers",
+      "code": "69241",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69440"
+      ],
+      "population": 2590
+    },
+    {
+      "nom": "Taponas",
+      "code": "69242",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69220"
+      ],
+      "population": 927
+    },
+    {
+      "nom": "Tarare",
+      "code": "69243",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69170"
+      ],
+      "population": 10490
+    },
+    {
+      "nom": "Tassin-la-Demi-Lune",
+      "code": "69244",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69160"
+      ],
+      "population": 22286
+    },
+    {
+      "nom": "Ternand",
+      "code": "69245",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69620"
+      ],
+      "population": 710
+    },
+    {
+      "nom": "Theizé",
+      "code": "69246",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69620"
+      ],
+      "population": 1295
+    },
+    {
+      "nom": "Thizy-les-Bourgs",
+      "code": "69248",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69240"
+      ],
+      "population": 6020
+    },
+    {
+      "nom": "Thurins",
+      "code": "69249",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69510"
+      ],
+      "population": 3053
+    },
+    {
+      "nom": "La Tour-de-Salvagny",
+      "code": "69250",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69890"
+      ],
+      "population": 4117
+    },
+    {
+      "nom": "Trèves",
+      "code": "69252",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69420"
+      ],
+      "population": 745
+    },
+    {
+      "nom": "Tupin-et-Semons",
+      "code": "69253",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69420"
+      ],
+      "population": 637
+    },
+    {
+      "nom": "Valsonne",
+      "code": "69254",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69170"
+      ],
+      "population": 971
+    },
+    {
+      "nom": "Vaugneray",
+      "code": "69255",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69670"
+      ],
+      "population": 6080
+    },
+    {
+      "nom": "Vaulx-en-Velin",
+      "code": "69256",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69120"
+      ],
+      "population": 52795
+    },
+    {
+      "nom": "Vaux-en-Beaujolais",
+      "code": "69257",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69460"
+      ],
+      "population": 1086
+    },
+    {
+      "nom": "Vauxrenard",
+      "code": "69258",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69820"
+      ],
+      "population": 322
+    },
+    {
+      "nom": "Vénissieux",
+      "code": "69259",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69200"
+      ],
+      "population": 67285
+    },
+    {
+      "nom": "Vernaison",
+      "code": "69260",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69390"
+      ],
+      "population": 4999
+    },
+    {
+      "nom": "Vernay",
+      "code": "69261",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69430"
+      ],
+      "population": 104
+    },
+    {
+      "nom": "Villechenève",
+      "code": "69263",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69770"
+      ],
+      "population": 881
+    },
+    {
+      "nom": "Villefranche-sur-Saône",
+      "code": "69264",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69400"
+      ],
+      "population": 36291
+    },
+    {
+      "nom": "Ville-sur-Jarnioux",
+      "code": "69265",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69640"
+      ],
+      "population": 802
+    },
+    {
+      "nom": "Villeurbanne",
+      "code": "69266",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69100"
+      ],
+      "population": 152212
+    },
+    {
+      "nom": "Villié-Morgon",
+      "code": "69267",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69910"
+      ],
+      "population": 2137
+    },
+    {
+      "nom": "Vourles",
+      "code": "69268",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69390"
+      ],
+      "population": 3367
+    },
+    {
+      "nom": "Yzeron",
+      "code": "69269",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69510"
+      ],
+      "population": 992
+    },
+    {
+      "nom": "Chaponnay",
+      "code": "69270",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69970"
+      ],
+      "population": 4355
+    },
+    {
+      "nom": "Chassieu",
+      "code": "69271",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69680"
+      ],
+      "population": 10638
+    },
+    {
+      "nom": "Communay",
+      "code": "69272",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69360"
+      ],
+      "population": 4242
+    },
+    {
+      "nom": "Corbas",
+      "code": "69273",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69960"
+      ],
+      "population": 11196
+    },
+    {
+      "nom": "Décines-Charpieu",
+      "code": "69275",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69150"
+      ],
+      "population": 28930
+    },
+    {
+      "nom": "Feyzin",
+      "code": "69276",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69320"
+      ],
+      "population": 9902
+    },
+    {
+      "nom": "Genas",
+      "code": "69277",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69740"
+      ],
+      "population": 13181
+    },
+    {
+      "nom": "Genay",
+      "code": "69278",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69730"
+      ],
+      "population": 5509
+    },
+    {
+      "nom": "Jonage",
+      "code": "69279",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69330"
+      ],
+      "population": 6076
+    },
+    {
+      "nom": "Jons",
+      "code": "69280",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69330"
+      ],
+      "population": 1528
+    },
+    {
+      "nom": "Marennes",
+      "code": "69281",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69970"
+      ],
+      "population": 1912
+    },
+    {
+      "nom": "Meyzieu",
+      "code": "69282",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69330"
+      ],
+      "population": 34640
+    },
+    {
+      "nom": "Mions",
+      "code": "69283",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69780"
+      ],
+      "population": 13707
+    },
+    {
+      "nom": "Montanay",
+      "code": "69284",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69250"
+      ],
+      "population": 3230
+    },
+    {
+      "nom": "Pusignan",
+      "code": "69285",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69330"
+      ],
+      "population": 4191
+    },
+    {
+      "nom": "Rillieux-la-Pape",
+      "code": "69286",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69140"
+      ],
+      "population": 30697
+    },
+    {
+      "nom": "Saint-Bonnet-de-Mure",
+      "code": "69287",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69720"
+      ],
+      "population": 6875
+    },
+    {
+      "nom": "Saint-Laurent-de-Mure",
+      "code": "69288",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69720"
+      ],
+      "population": 5458
+    },
+    {
+      "nom": "Saint-Pierre-de-Chandieu",
+      "code": "69289",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69780"
+      ],
+      "population": 4579
+    },
+    {
+      "nom": "Saint-Priest",
+      "code": "69290",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69800"
+      ],
+      "population": 46927
+    },
+    {
+      "nom": "Saint-Symphorien-d'Ozon",
+      "code": "69291",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69360"
+      ],
+      "population": 5789
+    },
+    {
+      "nom": "Sathonay-Camp",
+      "code": "69292",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69580"
+      ],
+      "population": 6497
+    },
+    {
+      "nom": "Sathonay-Village",
+      "code": "69293",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69580"
+      ],
+      "population": 2369
+    },
+    {
+      "nom": "Sérézin-du-Rhône",
+      "code": "69294",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69360"
+      ],
+      "population": 2772
+    },
+    {
+      "nom": "Simandres",
+      "code": "69295",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69360"
+      ],
+      "population": 1810
+    },
+    {
+      "nom": "Solaize",
+      "code": "69296",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69360"
+      ],
+      "population": 2986
+    },
+    {
+      "nom": "Ternay",
+      "code": "69297",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69360"
+      ],
+      "population": 5512
+    },
+    {
+      "nom": "Toussieu",
+      "code": "69298",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69780"
+      ],
+      "population": 3188
+    },
+    {
+      "nom": "Colombier-Saugnieu",
+      "code": "69299",
+      "codeDepartement": "69",
+      "codeRegion": "84",
+      "codesPostaux": [
+        "69125",
+        "69124"
+      ],
+      "population": 2700
+    }
+  ]
